@@ -1,5 +1,11 @@
 *{margin:0px;
 padding: 0px;}
 
-body{font-family: sans-serif;}
 
+
+body{font-family: sans-serif ;}
+
+.cabecalho{background-color: rgb(70, 151, 70);}
+
+.cabecalho-imagem{width: 280px;
+    height: 290px;}
